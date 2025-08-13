@@ -20,7 +20,7 @@ An Android application built with Flutter to enhance student productivity throug
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/daily_thrive.git
+   git clone https://github.com/Dwidenbrahma/daily_thrive.git
    cd daily_thrive
    ```
 2. **Install dependencies:**
